@@ -67,7 +67,7 @@ const showProductMenu = ref<boolean>(false);
       </div>
       <NuxtLink to="/" class="flex items-center">
         <img
-          src="~/assets/image/the-originote.png"
+          src="/image/the-originote.png"
           alt="The Originote"
           title="The Originote"
           class="w-44"
@@ -136,7 +136,7 @@ const showProductMenu = ref<boolean>(false);
               class="p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-3"
             >
               <img
-                src="~/assets/image/mois.jpg"
+                src="/image/mois.jpg"
                 alt="Moisturizer"
                 title="Moisturizer"
                 class="w-20 md:w-14 rounded-xl"
@@ -155,7 +155,7 @@ const showProductMenu = ref<boolean>(false);
               href="#"
               class="p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-3"
               ><img
-                src="~/assets/image/bundle.jpg"
+                src="/image/bundle.jpg"
                 alt="Moisturizer"
                 title="Moisturizer"
                 class="w-20 md:w-14 rounded-xl"
@@ -173,7 +173,7 @@ const showProductMenu = ref<boolean>(false);
               href="#"
               class="p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-3"
               ><img
-                src="~/assets/image/sunscreen.jpg"
+                src="/image/sunscreen.jpg"
                 alt="Moisturizer"
                 title="Moisturizer"
                 class="w-20 md:w-14 rounded-xl"
@@ -193,7 +193,7 @@ const showProductMenu = ref<boolean>(false);
               href="#"
               class="p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-3"
               ><img
-                src="~/assets/image/mask.jpg"
+                src="/image/mask.jpg"
                 alt="Moisturizer"
                 title="Moisturizer"
                 class="w-20 md:w-14 rounded-xl"
@@ -211,7 +211,7 @@ const showProductMenu = ref<boolean>(false);
               href="#"
               class="p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-3"
               ><img
-                src="~/assets/image/serum.jpg"
+                src="/image/serum.jpg"
                 alt="Moisturizer"
                 title="Moisturizer"
                 class="w-20 md:w-14 rounded-xl"
@@ -229,7 +229,7 @@ const showProductMenu = ref<boolean>(false);
               href="#"
               class="p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-3"
               ><img
-                src="~/assets/image/eye-serum.jpg"
+                src="/image/eye-serum.jpg"
                 alt="Moisturizer"
                 title="Moisturizer"
                 class="w-20 md:w-14 rounded-xl"
