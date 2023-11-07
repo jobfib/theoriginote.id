@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as c}from"./entry.9e0a0d1c.js";const s={},n=c("h1",{class:"underline"},"About",-1),a=[n];function r(_,d){return t(),o("div",null,a)}const i=e(s,[["render",r]]);export{i as default};
